@@ -1,0 +1,3 @@
+# README Dosyası
+
+benim notlarım
